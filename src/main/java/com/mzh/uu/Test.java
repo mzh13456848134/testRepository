@@ -9,4 +9,7 @@ public class Test {
 		System.out.println("第二个王者");
 
 	}
+	public void test1() {
+		
+	}
 }
